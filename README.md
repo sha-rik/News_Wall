@@ -8,6 +8,7 @@ My webapp NewsWall contains news from different catogary.
 <br>
 And many other like Bussiness,Politics,Sports,etc.
 <br>
+<p align="left"> <img src="<p align="left"> <img src="https://github.com/sha-rik/News_Wall/assets/100454350/8d4ee6cc-9899-4014-ae37-7abc4130bb09" alt="Sharique" /> </p>" alt="Sharique" /> </p>
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
