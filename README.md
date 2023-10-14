@@ -1,7 +1,7 @@
 <h1 align="center"># NEWSWALL</h1>
 <h1 align="center"># Contains Diffrent Catogary</h1>
 My webapp NewsWall contains news from different catogary.
-<h3 align="center"># Health<h3> 
+<h2 align="center"># Health<h2> 
 <p align="left"> <img src="https://github.com/sha-rik/News_Wall/assets/100454350/874b2ca0-4586-4548-aa82-0395a7a2dec7" alt="Sharique" /> </p>
 
 
