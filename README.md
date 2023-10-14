@@ -3,9 +3,9 @@
 My webapp NewsWall contains news from different catogary.
 <h2 align="center"># Health<h2> 
 <p align="left"> <img src="https://github.com/sha-rik/News_Wall/assets/100454350/874b2ca0-4586-4548-aa82-0395a7a2dec7" alt="Sharique" /> </p>
-
-
-
+<h2 align="center"># Entertainment<h2> 
+<p align="left"> <img src="https://github.com/sha-rik/News_Wall/assets/100454350/8d4ee6cc-9899-4014-ae37-7abc4130bb09" alt="Sharique" /> </p>
+And many other like Bussiness,Politics,Sports,etc.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
