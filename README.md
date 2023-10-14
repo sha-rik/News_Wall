@@ -1,6 +1,6 @@
 <h1 align="center"># NEWSWALL</h1>
 My webapp NewsWall contains news from different catogary like Bussiness,Sports,Politics,etc.
-![Screenshot 2023-10-14 at 11 26 47 PM](https://github.com/sha-rik/News_Wall/assets/100454350/874b2ca0-4586-4548-aa82-0395a7a2dec7)
+<p align="left"> <img src="https://github.com/sha-rik/News_Wall/assets/100454350/874b2ca0-4586-4548-aa82-0395a7a2dec7" alt="Sharique" /> </p>
 
 
 
