@@ -1,4 +1,6 @@
 <h1 align="center"># NEWSWALL</h1>
+NewsWall contains news from different catogary like Bussiness,Sports,Politics,etc.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
